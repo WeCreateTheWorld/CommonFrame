@@ -1,2 +1,0 @@
-# CommonFrame
-CommonFrame
